@@ -7,4 +7,4 @@ def max_dragon_power(n):
     elif r == 1:
         return (3 ** (q - 1)) * 4  # 4 = 2 * 2
     else:  # r == 2
-        return (3 ** q) * 2 
+        return (3 ** q) * 2
